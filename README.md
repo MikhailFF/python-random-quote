@@ -2,4 +2,4 @@
 
 TODO: a better introduction
 
-You can find your next step in this repo's [open issue]({{ repoUrl }}/issues/)!
+You can find your next step in this repo's [open issue](../../issues/1)!
